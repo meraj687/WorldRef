@@ -111,6 +111,9 @@ a.brand {
   font-size: 1.4rem;
   margin-left: 0.2rem;
 }
+/* .rowbutton {
+  text-align: center;
+} */
 .row {
   display: flex;
   flex-wrap: wrap;
